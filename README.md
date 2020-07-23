@@ -1,6 +1,6 @@
 # strapi-provider-email-nodemailer
 
-**Changes have been merged upstream and can be found here: https://github.com/yutikom/strapi-provider-email-nodemailer**
+**Changes have been merged upstream and can be found here: https://github.com/yutikom/strapi-provider-email-nodemailer**  
 **Please use the official repo for the Strapi plugin. Archiving this.**
 
 This release of the nodemailer provider for Strapi is compatible with Strapi 3.x
